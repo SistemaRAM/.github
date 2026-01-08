@@ -61,7 +61,7 @@ O Sistema RAM já está evoluído para o novo cenário fiscal brasileiro:
 
 ## 🔗 Links Úteis
 
-- **🌐 Site Oficial**: [sistemaram.vercel.app](https://sistemaram.vercel.app/)
+- **🌐 Site Oficial**: [sistemaram.com.br](https://sistemaram.com.br/)
 - **📱 Instagram**: [@sistemaram](https://www.instagram.com/sistemaram/)
 - **📺 YouTube**: [@SistemaRAM](https://www.youtube.com/@SistemaRAM)
 - **📧 Agendar Demonstração**: Entre em contato conosco
